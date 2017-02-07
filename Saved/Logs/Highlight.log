@@ -1054,4 +1054,393 @@ ntdll.dll
 [2017.02.07-13.45.02:446][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Route" FILE="D:/Github/Forschungsseminar/Content/Route.uasset" SILENT=true
 [2017.02.07-13.45.02:460][506]LogSavePackage: Save=12.715452ms
 [2017.02.07-13.45.02:460][506]LogSavePackage: Moving 'D:/Github/Forschungsseminar/Saved/Route3D168724450BFD2A1A3D9FA84BC205BF.tmp' to 'D:/Github/Forschungsseminar/Content/Route.uasset'
-[2017.02.07-13.45.02:463][
+[2017.02.07-13.45.02:463][506]LogSavePackage: Total save time: 15.665378ms
+[2017.02.07-13.45.02:463][506]LogSavePackage:Display: Finished SavePackage D:/Github/Forschungsseminar/Content/Route.uasset
+[2017.02.07-14.12.14:609][525]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000207930531A0
+[2017.02.07-14.12.14:618][525]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000208DDF19D00
+[2017.02.07-14.12.14:624][525]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000002078F665EE0
+[2017.02.07-14.12.14:630][525]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000002078D5FEFC0
+[2017.02.07-14.12.14:639][525]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000208D81CEFC0
+[2017.02.07-14.12.14:645][525]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000208FCC3BD80
+[2017.02.07-14.12.14:652][525]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000208FD772840
+[2017.02.07-14.12.14:659][525]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000020792FDBA60
+[2017.02.07-14.12.14:666][525]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000207D0428860
+[2017.02.07-14.12.14:724][526]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000207F8E0D760
+[2017.02.07-14.12.17:415][674]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000208BFE84E00
+[2017.02.07-14.12.17:427][675]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000208BFE84AE0
+[2017.02.07-14.12.18:810][758]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.02.07-14.34.05:301][831]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-14.34.05:302][831]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.07-14.34.05:302][831]PIE: New page: PIE session: Untitled (Feb 7, 2017, 4:34:05 PM)
+[2017.02.07-14.34.05:303][831]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled
+[2017.02.07-14.34.05:324][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020034s)
+[2017.02.07-14.34.05:329][831]LogAIModule: Creating AISystem for world Untitled
+[2017.02.07-14.34.05:331][831]LogPlayLevel: PIE: World Init took: (0.006376s)
+[2017.02.07-14.34.05:331][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Untitled.Untitled to /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled (0.027698s)
+[2017.02.07-14.34.05:405][831]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.02.07-14.34.05:416][831]LogInit: FAudioDevice initialized.
+[2017.02.07-14.34.05:455][831]LogWorld: Game class is 'Mouse_GameMode_C'
+[2017.02.07-14.34.05:468][831]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled up for play (max tick rate 60) at 2017.02.07-15.34.05
+[2017.02.07-14.34.05:468][831]LogActor:Warning: GameSession /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled:PersistentLevel.GameSession_23 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2017.02.07-14.34.05:468][831]LogActor:Warning: GameNetworkManager /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled:PersistentLevel.GameNetworkManager_23 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2017.02.07-14.34.05:469][831]LogWorld: Bringing up level for play took: 0.013150
+[2017.02.07-14.34.05:473][831]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled -0.742
+[2017.02.07-14.34.05:473][831]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-14.34.33:879][534]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-14.34.33:929][534]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-14.34.33:987][535]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000208C00E7BA0
+[2017.02.07-14.43.16:246][401]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Navi_Menu.Navi_Menu:WidgetTree.CanvasPanel_60 or CanvasPanel /Game/FirstPersonBP/Maps/Untitled.Untitled:Tempomat_Menu_C_53.WidgetTree_1179.CanvasPanel_60
+[2017.02.07-14.43.16:246][401]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Navi_Menu.Navi_Menu:WidgetTree.CanvasPanel_60 or CanvasPanel /Game/UMG/Tempomat_menu.Tempomat_Menu:WidgetTree.CanvasPanel_60
+[2017.02.07-14.43.16:246][401]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Navi_Menu.Navi_Menu:WidgetTree.CanvasPanel_60 or CanvasPanel /Game/UMG/Tempomat_menu.Tempomat_Menu_C:WidgetTree_27.CanvasPanel_60
+[2017.02.07-14.43.16:246][401]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Navi_Menu.Navi_Menu:WidgetTree.CanvasPanel_60 or CanvasPanel /Game/UMG/Navi_Menu.Navi_Menu_C:WidgetTree_1187.CanvasPanel_60
+[2017.02.07-14.43.16:246][401]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Navi_Menu.Navi_Menu:WidgetTree.CanvasPanel_60 or CanvasPanel /Game/UMG/Navi_Menu.Navi_Menu_C:WidgetTree_1176.CanvasPanel_60
+[2017.02.07-14.43.16:246][401]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Navi_Menu.Navi_Menu:WidgetTree.CanvasPanel_60 or CanvasPanel /Game/FirstPersonBP/Maps/Untitled.Untitled:Navi_Menu_C_3.WidgetTree_1180.CanvasPanel_60
+[2017.02.07-14.43.16:246][401]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Navi_Menu.Navi_Menu:WidgetTree.CanvasPanel_60 or CanvasPanel /Engine/Transient.World_64:Navi_Menu_C_9.WidgetTree_1196.CanvasPanel_60
+[2017.02.07-14.43.16:246][401]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Navi_Menu.Navi_Menu:WidgetTree.CanvasPanel_60 or CanvasPanel /Engine/Transient.World_64:Navi_Menu_C_8.WidgetTree_1194.CanvasPanel_60
+[2017.02.07-14.43.16:246][401]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Navi_Menu.Navi_Menu:WidgetTree.CanvasPanel_60 or CanvasPanel /Game/UMG/Tempomat_menu.Tempomat_Menu_C:WidgetTree_893.CanvasPanel_60
+[2017.02.07-14.43.16:246][401]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Navi_Menu.Navi_Menu:WidgetTree.CanvasPanel_60 or CanvasPanel /Game/UMG/Navi_Menu.Navi_Menu_C:WidgetTree_1195.CanvasPanel_60
+[2017.02.07-14.43.16:246][401]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Navi_Menu.Navi_Menu:WidgetTree.CanvasPanel_60 or CanvasPanel /Game/UMG/Navi_Menu.Navi_Menu_C:WidgetTree_1193.CanvasPanel_60
+[2017.02.07-14.43.16:246][401]LogProperty:Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/UMG/Navi_Menu.Navi_Menu:WidgetTree.CanvasPanel_60.CanvasPanelSlot_1291) from referencer (TextBlock /Engine/UMG/Editor/Transient.SavedAdressesText).  Import failed...
+[2017.02.07-14.43.16:246][401]LogProperty:Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'CanvasPanel_60.CanvasPanelSlot_1291''
+[2017.02.07-14.46.51:877][247]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-14.46.51:877][247]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.02.07-14.46.51:879][247]LogPlayLevel: [PlayLevel] Compiling Navi_Menu before play...
+[2017.02.07-14.46.51:982][247]LogPlayLevel: PlayLevel: Blueprint regeneration took 104 ms (1 blueprints)
+[2017.02.07-14.46.52:034][247]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000207F7736AC0
+[2017.02.07-14.46.52:034][247]PIE: New page: PIE session: Untitled (Feb 7, 2017, 4:46:52 PM)
+[2017.02.07-14.46.52:035][247]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled
+[2017.02.07-14.46.52:039][247]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003936s)
+[2017.02.07-14.46.52:040][247]LogAIModule: Creating AISystem for world Untitled
+[2017.02.07-14.46.52:040][247]LogPlayLevel: PIE: World Init took: (0.001386s)
+[2017.02.07-14.46.52:040][247]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Untitled.Untitled to /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled (0.005574s)
+[2017.02.07-14.46.52:082][247]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.02.07-14.46.52:093][247]LogInit: FAudioDevice initialized.
+[2017.02.07-14.46.52:132][247]LogWorld: Game class is 'Mouse_GameMode_C'
+[2017.02.07-14.46.52:138][247]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled up for play (max tick rate 60) at 2017.02.07-15.46.52
+[2017.02.07-14.46.52:138][247]LogActor:Warning: GameSession /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled:PersistentLevel.GameSession_24 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2017.02.07-14.46.52:138][247]LogActor:Warning: GameNetworkManager /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled:PersistentLevel.GameNetworkManager_24 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2017.02.07-14.46.52:138][247]LogWorld: Bringing up level for play took: 0.005879
+[2017.02.07-14.46.52:140][247]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled -0.075
+[2017.02.07-14.46.52:140][247]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-14.47.05:845][ 69]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-14.47.05:884][ 69]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-14.47.05:939][ 70]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000020796932160
+[2017.02.07-14.47.15:533][573]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-14.47.15:533][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.07-14.47.15:533][573]PIE: New page: PIE session: Untitled (Feb 7, 2017, 4:47:15 PM)
+[2017.02.07-14.47.15:533][573]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled
+[2017.02.07-14.47.15:538][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004614s)
+[2017.02.07-14.47.15:539][573]LogAIModule: Creating AISystem for world Untitled
+[2017.02.07-14.47.15:540][573]LogPlayLevel: PIE: World Init took: (0.001737s)
+[2017.02.07-14.47.15:540][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Untitled.Untitled to /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled (0.006742s)
+[2017.02.07-14.47.15:583][573]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.02.07-14.47.15:591][573]LogInit: FAudioDevice initialized.
+[2017.02.07-14.47.15:626][573]LogWorld: Game class is 'Mouse_GameMode_C'
+[2017.02.07-14.47.15:631][573]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled up for play (max tick rate 60) at 2017.02.07-15.47.15
+[2017.02.07-14.47.15:631][573]LogActor:Warning: GameSession /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled:PersistentLevel.GameSession_25 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2017.02.07-14.47.15:631][573]LogActor:Warning: GameNetworkManager /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled:PersistentLevel.GameNetworkManager_25 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2017.02.07-14.47.15:631][573]LogWorld: Bringing up level for play took: 0.005080
+[2017.02.07-14.47.15:633][573]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled -0.582
+[2017.02.07-14.47.15:633][573]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-14.47.25:457][153]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-14.47.25:497][153]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-14.47.25:539][153]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000020799A11F80
+[2017.02.07-14.47.25:540][153]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000002090674E480
+[2017.02.07-14.47.25:557][154]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000002090674D8A0
+[2017.02.07-14.48.23:625][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/Navi_Menu" FILE="D:/Github/Forschungsseminar/Content/UMG/Navi_Menu.uasset" SILENT=true
+[2017.02.07-14.48.25:464][572]LogSavePackage: Save=1820.966797ms
+[2017.02.07-14.48.25:464][572]LogSavePackage: Moving 'D:/Github/Forschungsseminar/Saved/Navi_Menu740BD1D5460038066A1632A60D9876BD.tmp' to 'D:/Github/Forschungsseminar/Content/UMG/Navi_Menu.uasset'
+[2017.02.07-14.48.25:473][572]LogSavePackage: Total save time: 1841.790482ms
+[2017.02.07-14.48.25:473][572]LogSavePackage:Display: Finished SavePackage D:/Github/Forschungsseminar/Content/UMG/Navi_Menu.uasset
+[2017.02.07-14.48.27:492][690]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-14.48.27:493][690]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.02.07-14.48.27:494][690]LogPlayLevel: [PlayLevel] Compiling Navi_Menu before play...
+[2017.02.07-14.48.27:555][690]LogPlayLevel: PlayLevel: Blueprint regeneration took 62 ms (1 blueprints)
+[2017.02.07-14.48.27:596][690]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000002090674C360
+[2017.02.07-14.48.27:601][690]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000002090674DC60
+[2017.02.07-14.48.27:601][690]PIE: New page: PIE session: Untitled (Feb 7, 2017, 4:48:27 PM)
+[2017.02.07-14.48.27:601][690]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled
+[2017.02.07-14.48.27:605][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003944s)
+[2017.02.07-14.48.27:606][690]LogAIModule: Creating AISystem for world Untitled
+[2017.02.07-14.48.27:606][690]LogPlayLevel: PIE: World Init took: (0.001288s)
+[2017.02.07-14.48.27:607][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Untitled.Untitled to /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled (0.005604s)
+[2017.02.07-14.48.27:653][690]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.02.07-14.48.27:663][690]LogInit: FAudioDevice initialized.
+[2017.02.07-14.48.27:698][690]LogWorld: Game class is 'Mouse_GameMode_C'
+[2017.02.07-14.48.27:704][690]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled up for play (max tick rate 60) at 2017.02.07-15.48.27
+[2017.02.07-14.48.27:704][690]LogActor:Warning: GameSession /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled:PersistentLevel.GameSession_26 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2017.02.07-14.48.27:704][690]LogActor:Warning: GameNetworkManager /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled:PersistentLevel.GameNetworkManager_26 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2017.02.07-14.48.27:704][690]LogWorld: Bringing up level for play took: 0.005350
+[2017.02.07-14.48.27:706][690]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled -0.509
+[2017.02.07-14.48.27:706][690]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-14.48.44:276][684]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-14.48.44:316][684]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-14.48.44:375][685]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000002091089C900
+[2017.02.07-15.06.31:070][666]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-15.06.31:070][666]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.02.07-15.06.31:070][666]LogPlayLevel: [PlayLevel] Compiling 3D_Infotainment before play...
+[2017.02.07-15.06.31:133][666]LogPlayLevel: PlayLevel: Blueprint regeneration took 62 ms (2 blueprints)
+[2017.02.07-15.06.31:133][666]LogPlayLevel: [PlayLevel] Compiling Infotainment_Menu before play...
+[2017.02.07-15.06.31:194][666]LogPlayLevel: PlayLevel: Blueprint regeneration took 124 ms (2 blueprints)
+[2017.02.07-15.06.31:244][666]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000208E35B56C0
+[2017.02.07-15.06.31:245][666]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000208E35B5F80
+[2017.02.07-15.06.31:247][666]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000020793529A80
+[2017.02.07-15.06.31:248][666]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000002091089F740
+[2017.02.07-15.06.31:249][666]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000002078D1F8680
+[2017.02.07-15.06.31:250][666]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000020788B1ECA0
+[2017.02.07-15.06.31:251][666]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000208C26A2520
+[2017.02.07-15.06.31:252][666]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000208C26A05E0
+[2017.02.07-15.06.31:253][666]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000020788A6AF20
+[2017.02.07-15.06.31:259][666]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000020788A6B920
+[2017.02.07-15.06.31:259][666]PIE: New page: PIE session: Untitled (Feb 7, 2017, 5:06:31 PM)
+[2017.02.07-15.06.31:259][666]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled
+[2017.02.07-15.06.31:263][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003826s)
+[2017.02.07-15.06.31:264][666]LogAIModule: Creating AISystem for world Untitled
+[2017.02.07-15.06.31:264][666]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2017.02.07-15.06.31:264][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Untitled.Untitled to /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled (0.005062s)
+[2017.02.07-15.06.31:317][666]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.02.07-15.06.31:328][666]LogInit: FAudioDevice initialized.
+[2017.02.07-15.06.31:364][666]LogWorld: Game class is 'Mouse_GameMode_C'
+[2017.02.07-15.06.31:372][666]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled up for play (max tick rate 60) at 2017.02.07-16.06.31
+[2017.02.07-15.06.31:372][666]LogActor:Warning: GameSession /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled:PersistentLevel.GameSession_27 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2017.02.07-15.06.31:372][666]LogActor:Warning: GameNetworkManager /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled:PersistentLevel.GameNetworkManager_27 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2017.02.07-15.06.31:372][666]LogWorld: Bringing up level for play took: 0.007695
+[2017.02.07-15.06.31:375][666]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled 1.16
+[2017.02.07-15.06.31:375][666]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-15.06.33:297][781]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-15.06.33:334][781]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-15.06.33:387][782]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000002091F235080
+[2017.02.07-15.06.41:629][232]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-15.06.41:629][232]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.07-15.06.41:630][232]PIE: New page: PIE session: Untitled (Feb 7, 2017, 5:06:41 PM)
+[2017.02.07-15.06.41:630][232]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled
+[2017.02.07-15.06.41:635][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005390s)
+[2017.02.07-15.06.41:636][232]LogAIModule: Creating AISystem for world Untitled
+[2017.02.07-15.06.41:636][232]LogPlayLevel: PIE: World Init took: (0.000713s)
+[2017.02.07-15.06.41:636][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Untitled.Untitled to /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled (0.006306s)
+[2017.02.07-15.06.41:679][232]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.02.07-15.06.41:687][232]LogInit: FAudioDevice initialized.
+[2017.02.07-15.06.41:722][232]LogWorld: Game class is 'Mouse_GameMode_C'
+[2017.02.07-15.06.41:728][232]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled up for play (max tick rate 60) at 2017.02.07-16.06.41
+[2017.02.07-15.06.41:728][232]LogActor:Warning: GameSession /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled:PersistentLevel.GameSession_28 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2017.02.07-15.06.41:728][232]LogActor:Warning: GameNetworkManager /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled:PersistentLevel.GameNetworkManager_28 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2017.02.07-15.06.41:729][232]LogWorld: Bringing up level for play took: 0.005956
+[2017.02.07-15.06.41:730][232]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled -0.484
+[2017.02.07-15.06.41:731][232]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-15.06.45:233][442]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-15.06.45:271][442]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-15.06.45:315][442]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000207F7736160
+[2017.02.07-15.06.50:284][720]LogEditorViewport: Clicking on Actor (LMB): 3D_Navi_C (3D_Navi)
+[2017.02.07-15.06.53:016][883]LogEditorViewport: Clicking on Actor (LMB): 3D_Infotainment_C (3D_Infotainment)
+[2017.02.07-15.06.54:549][974]Cmd: DELETE
+[2017.02.07-15.06.54:549][974]Cmd: ACTOR DELETE
+[2017.02.07-15.06.54:566][974]LogEditorActor: Deleted Actor: 3D_Infotainment_C
+[2017.02.07-15.06.54:609][974]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000208F33CE660
+[2017.02.07-15.06.54:609][974]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2017.02.07-15.07.17:568][196]BlueprintLog: New page: Compile Infotainment_Menu
+[2017.02.07-15.07.17:675][196]BlueprintEditorCompileResults: Info [7568.94] Compile of Infotainment_Menu successful! [in 104 ms]
+[2017.02.07-15.07.18:093][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/Infotainment_Menu" FILE="D:/Github/Forschungsseminar/Content/UMG/Infotainment_Menu.uasset" SILENT=true
+[2017.02.07-15.07.18:103][215]LogSavePackage: Save=7.305084ms
+[2017.02.07-15.07.18:103][215]LogSavePackage: Moving 'D:/Github/Forschungsseminar/Saved/Infotainment_Menu0301BF4D408EEE4F7EDB3A9FD3295E26.tmp' to 'D:/Github/Forschungsseminar/Content/UMG/Infotainment_Menu.uasset'
+[2017.02.07-15.07.18:105][215]LogSavePackage: Total save time: 9.918019ms
+[2017.02.07-15.07.18:105][215]LogSavePackage:Display: Finished SavePackage D:/Github/Forschungsseminar/Content/UMG/Infotainment_Menu.uasset
+[2017.02.07-15.07.19:651][299]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-15.07.19:651][299]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.07-15.07.19:651][299]PIE: New page: PIE session: Untitled (Feb 7, 2017, 5:07:19 PM)
+[2017.02.07-15.07.19:651][299]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled
+[2017.02.07-15.07.19:655][299]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003971s)
+[2017.02.07-15.07.19:656][299]LogAIModule: Creating AISystem for world Untitled
+[2017.02.07-15.07.19:656][299]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2017.02.07-15.07.19:656][299]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Untitled.Untitled to /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled (0.005261s)
+[2017.02.07-15.07.19:699][299]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000002090BEB7600
+[2017.02.07-15.07.19:700][299]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.02.07-15.07.19:707][299]LogInit: FAudioDevice initialized.
+[2017.02.07-15.07.19:742][299]LogWorld: Game class is 'Mouse_GameMode_C'
+[2017.02.07-15.07.19:748][299]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled up for play (max tick rate 60) at 2017.02.07-16.07.19
+[2017.02.07-15.07.19:748][299]LogActor:Warning: GameSession /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled:PersistentLevel.GameSession_29 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2017.02.07-15.07.19:749][299]LogActor:Warning: GameNetworkManager /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled:PersistentLevel.GameNetworkManager_29 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2017.02.07-15.07.19:749][299]LogWorld: Bringing up level for play took: 0.006502
+[2017.02.07-15.07.19:751][299]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled -0.463
+[2017.02.07-15.07.19:751][299]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-15.07.29:282][869]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-15.07.29:317][869]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-15.07.29:360][869]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000002090674E7A0
+[2017.02.07-15.07.42:999][620]BlueprintLog: New page: Compile 3D_Infotainment
+[2017.02.07-15.07.43:104][620]BlueprintEditorCompileResults: Info [7594.37] Compile of 3D_Infotainment successful! [in 104 ms]
+[2017.02.07-15.07.43:479][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/3D_Infotainment" FILE="D:/Github/Forschungsseminar/Content/UMG/3D_Infotainment.uasset" SILENT=true
+[2017.02.07-15.07.43:492][638]LogSavePackage: Save=11.953378ms
+[2017.02.07-15.07.43:492][638]LogSavePackage: Moving 'D:/Github/Forschungsseminar/Saved/3D_Infotainment62DD536F46F79C6C4D68F08005F59CAB.tmp' to 'D:/Github/Forschungsseminar/Content/UMG/3D_Infotainment.uasset'
+[2017.02.07-15.07.43:494][638]LogSavePackage: Total save time: 14.167305ms
+[2017.02.07-15.07.43:494][638]LogSavePackage:Display: Finished SavePackage D:/Github/Forschungsseminar/Content/UMG/3D_Infotainment.uasset
+[2017.02.07-15.07.45:095][728]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-15.07.45:095][728]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.07-15.07.45:095][728]PIE: New page: PIE session: Untitled (Feb 7, 2017, 5:07:45 PM)
+[2017.02.07-15.07.45:096][728]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled
+[2017.02.07-15.07.45:101][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005188s)
+[2017.02.07-15.07.45:101][728]LogAIModule: Creating AISystem for world Untitled
+[2017.02.07-15.07.45:102][728]LogPlayLevel: PIE: World Init took: (0.000843s)
+[2017.02.07-15.07.45:102][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Untitled.Untitled to /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled (0.006422s)
+[2017.02.07-15.07.45:144][728]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.02.07-15.07.45:152][728]LogInit: FAudioDevice initialized.
+[2017.02.07-15.07.45:186][728]LogWorld: Game class is 'Mouse_GameMode_C'
+[2017.02.07-15.07.45:191][728]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled up for play (max tick rate 60) at 2017.02.07-16.07.45
+[2017.02.07-15.07.45:191][728]LogActor:Warning: GameSession /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled:PersistentLevel.GameSession_30 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2017.02.07-15.07.45:191][728]LogActor:Warning: GameNetworkManager /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled:PersistentLevel.GameNetworkManager_30 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2017.02.07-15.07.45:191][728]LogWorld: Bringing up level for play took: 0.005320
+[2017.02.07-15.07.45:193][728]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled 0.979
+[2017.02.07-15.07.45:193][728]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-15.07.55:135][323]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-15.07.55:172][323]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-15.07.55:212][323]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000207F8E0D3A0
+[2017.02.07-15.08.00:041][608]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-15.08.00:041][608]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.07-15.08.00:041][608]PIE: New page: PIE session: Untitled (Feb 7, 2017, 5:08:00 PM)
+[2017.02.07-15.08.00:042][608]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled
+[2017.02.07-15.08.00:047][608]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004824s)
+[2017.02.07-15.08.00:047][608]LogAIModule: Creating AISystem for world Untitled
+[2017.02.07-15.08.00:048][608]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2017.02.07-15.08.00:048][608]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Untitled.Untitled to /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled (0.006108s)
+[2017.02.07-15.08.00:093][608]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.02.07-15.08.00:100][608]LogInit: FAudioDevice initialized.
+[2017.02.07-15.08.00:134][608]LogWorld: Game class is 'Mouse_GameMode_C'
+[2017.02.07-15.08.00:140][608]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled up for play (max tick rate 60) at 2017.02.07-16.08.00
+[2017.02.07-15.08.00:140][608]LogActor:Warning: GameSession /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled:PersistentLevel.GameSession_31 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2017.02.07-15.08.00:141][608]LogActor:Warning: GameNetworkManager /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled:PersistentLevel.GameNetworkManager_31 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2017.02.07-15.08.00:141][608]LogWorld: Bringing up level for play took: 0.006512
+[2017.02.07-15.08.00:143][608]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled -0.071
+[2017.02.07-15.08.00:143][608]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-15.08.04:312][858]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-15.08.04:349][858]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-15.08.04:393][858]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000002091E1FCEA0
+[2017.02.07-15.08.09:475][162]LogEditorViewport: Clicking on Actor (LMB): 3D_Infotainment_C (3D_Infotainment)
+[2017.02.07-15.08.10:355][214]Cmd: DELETE
+[2017.02.07-15.08.10:355][214]Cmd: ACTOR DELETE
+[2017.02.07-15.08.10:356][214]LogEditorActor: Deleted Actor: 3D_Infotainment_C
+[2017.02.07-15.08.10:398][214]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2017.02.07-15.09.27:114][535]LogEditorTransaction: Undo Add Widget
+[2017.02.07-15.09.27:395][548]LogEditorTransaction: Undo Add Widget
+[2017.02.07-15.10.28:863][896]LogUObjectHash:Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2188.HorizontalBox_0 or HorizontalBox /Game/UMG/Infotainment_Menu.Infotainment_Menu:WidgetTree.HorizontalBox_0
+[2017.02.07-15.10.28:863][896]LogUObjectHash:Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2188.HorizontalBox_0 or HorizontalBox /Engine/Transient.World_85:Infotainment_Menu_C_698.WidgetTree_2189.HorizontalBox_0
+[2017.02.07-15.10.28:863][896]LogUObjectHash:Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2188.HorizontalBox_0 or HorizontalBox /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2190.HorizontalBox_0
+[2017.02.07-15.10.28:863][896]LogUObjectHash:Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2188.HorizontalBox_0 or HorizontalBox /Engine/Transient.World_85:Infotainment_Menu_C_699.WidgetTree_2191.HorizontalBox_0
+[2017.02.07-15.10.28:863][896]LogUObjectHash:Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2188.HorizontalBox_0 or HorizontalBox /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2192.HorizontalBox_0
+[2017.02.07-15.10.28:863][896]LogUObjectHash:Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2188.HorizontalBox_0 or HorizontalBox /Engine/Transient.World_85:Infotainment_Menu_C_700.WidgetTree_2193.HorizontalBox_0
+[2017.02.07-15.10.28:863][896]LogUObjectHash:Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2188.HorizontalBox_0 or HorizontalBox /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2194.HorizontalBox_0
+[2017.02.07-15.10.28:863][896]LogUObjectHash:Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2188.HorizontalBox_0 or HorizontalBox /Engine/Transient.World_85:Infotainment_Menu_C_701.WidgetTree_2195.HorizontalBox_0
+[2017.02.07-15.10.28:863][896]LogUObjectHash:Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2188.HorizontalBox_0 or HorizontalBox /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2196.HorizontalBox_0
+[2017.02.07-15.10.28:863][896]LogUObjectHash:Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2188.HorizontalBox_0 or HorizontalBox /Engine/Transient.World_85:Infotainment_Menu_C_702.WidgetTree_2197.HorizontalBox_0
+[2017.02.07-15.10.28:863][896]LogUObjectHash:Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2188.HorizontalBox_0 or HorizontalBox /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2198.HorizontalBox_0
+[2017.02.07-15.10.28:863][896]LogUObjectHash:Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2188.HorizontalBox_0 or HorizontalBox /Engine/Transient.World_85:Infotainment_Menu_C_703.WidgetTree_2199.HorizontalBox_0
+[2017.02.07-15.10.28:863][896]LogUObjectHash:Warning: Ambiguous search, could be HorizontalBoxSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2190.HorizontalBox_0.HorizontalBoxSlot_0 or HorizontalBoxSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu:WidgetTree.HorizontalBox_0.HorizontalBoxSlot_0
+[2017.02.07-15.10.28:863][896]LogUObjectHash:Warning: Ambiguous search, could be HorizontalBoxSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2190.HorizontalBox_0.HorizontalBoxSlot_0 or HorizontalBoxSlot /Engine/Transient.World_85:Infotainment_Menu_C_699.WidgetTree_2191.HorizontalBox_0.HorizontalBoxSlot_0
+[2017.02.07-15.10.28:863][896]LogUObjectHash:Warning: Ambiguous search, could be HorizontalBoxSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2190.HorizontalBox_0.HorizontalBoxSlot_0 or HorizontalBoxSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2192.HorizontalBox_0.HorizontalBoxSlot_0
+[2017.02.07-15.10.28:863][896]LogUObjectHash:Warning: Ambiguous search, could be HorizontalBoxSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2190.HorizontalBox_0.HorizontalBoxSlot_0 or HorizontalBoxSlot /Engine/Transient.World_85:Infotainment_Menu_C_700.WidgetTree_2193.HorizontalBox_0.HorizontalBoxSlot_0
+[2017.02.07-15.10.28:863][896]LogUObjectHash:Warning: Ambiguous search, could be HorizontalBoxSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2190.HorizontalBox_0.HorizontalBoxSlot_0 or HorizontalBoxSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2194.HorizontalBox_0.HorizontalBoxSlot_0
+[2017.02.07-15.10.28:863][896]LogUObjectHash:Warning: Ambiguous search, could be HorizontalBoxSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2190.HorizontalBox_0.HorizontalBoxSlot_0 or HorizontalBoxSlot /Engine/Transient.World_85:Infotainment_Menu_C_701.WidgetTree_2195.HorizontalBox_0.HorizontalBoxSlot_0
+[2017.02.07-15.10.28:863][896]LogUObjectHash:Warning: Ambiguous search, could be HorizontalBoxSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2190.HorizontalBox_0.HorizontalBoxSlot_0 or HorizontalBoxSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2196.HorizontalBox_0.HorizontalBoxSlot_0
+[2017.02.07-15.10.28:863][896]LogUObjectHash:Warning: Ambiguous search, could be HorizontalBoxSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2190.HorizontalBox_0.HorizontalBoxSlot_0 or HorizontalBoxSlot /Engine/Transient.World_85:Infotainment_Menu_C_702.WidgetTree_2197.HorizontalBox_0.HorizontalBoxSlot_0
+[2017.02.07-15.10.28:863][896]LogUObjectHash:Warning: Ambiguous search, could be HorizontalBoxSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2190.HorizontalBox_0.HorizontalBoxSlot_0 or HorizontalBoxSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2198.HorizontalBox_0.HorizontalBoxSlot_0
+[2017.02.07-15.10.28:863][896]LogUObjectHash:Warning: Ambiguous search, could be HorizontalBoxSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2190.HorizontalBox_0.HorizontalBoxSlot_0 or HorizontalBoxSlot /Engine/Transient.World_85:Infotainment_Menu_C_703.WidgetTree_2199.HorizontalBox_0.HorizontalBoxSlot_0
+[2017.02.07-15.10.28:863][896]LogProperty:Warning: Illegal TEXT reference to a private object in external package (HorizontalBoxSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2190.HorizontalBox_0.HorizontalBoxSlot_0) from referencer (Button /Engine/UMG/Editor/Transient.Button_676).  Import failed...
+[2017.02.07-15.10.28:863][896]LogProperty:Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'HorizontalBoxSlot'HorizontalBox_0.HorizontalBoxSlot_0''
+[2017.02.07-15.11.46:526][ 94]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu:WidgetTree.CanvasPanel_116
+[2017.02.07-15.11.46:526][ 94]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Engine/Transient.World_85:Infotainment_Menu_C_715.WidgetTree_2223.CanvasPanel_116
+[2017.02.07-15.11.46:526][ 94]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2224.CanvasPanel_116
+[2017.02.07-15.11.46:526][ 94]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Engine/Transient.World_85:Infotainment_Menu_C_716.WidgetTree_2225.CanvasPanel_116
+[2017.02.07-15.11.46:526][ 94]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu:WidgetTree.CanvasPanel_116.CanvasPanelSlot_1935 or CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2224.CanvasPanel_116.CanvasPanelSlot_1935
+[2017.02.07-15.11.46:526][ 94]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu:WidgetTree.CanvasPanel_116.CanvasPanelSlot_1935 or CanvasPanelSlot /Engine/Transient.World_85:Infotainment_Menu_C_716.WidgetTree_2225.CanvasPanel_116.CanvasPanelSlot_1935
+[2017.02.07-15.11.46:526][ 94]LogProperty:Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu:WidgetTree.CanvasPanel_116.CanvasPanelSlot_1935) from referencer (Button /Engine/UMG/Editor/Transient.Button_686).  Import failed...
+[2017.02.07-15.11.46:526][ 94]LogProperty:Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'CanvasPanel_116.CanvasPanelSlot_1935''
+[2017.02.07-15.11.46:790][108]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu:WidgetTree.CanvasPanel_116
+[2017.02.07-15.11.46:790][108]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Engine/Transient.World_85:Infotainment_Menu_C_715.WidgetTree_2223.CanvasPanel_116
+[2017.02.07-15.11.46:790][108]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2224.CanvasPanel_116
+[2017.02.07-15.11.46:790][108]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Engine/Transient.World_85:Infotainment_Menu_C_716.WidgetTree_2225.CanvasPanel_116
+[2017.02.07-15.11.46:790][108]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2226.CanvasPanel_116
+[2017.02.07-15.11.46:790][108]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Engine/Transient.World_85:Infotainment_Menu_C_717.WidgetTree_2227.CanvasPanel_116
+[2017.02.07-15.11.46:790][108]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu:WidgetTree.CanvasPanel_116.CanvasPanelSlot_1935 or CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2224.CanvasPanel_116.CanvasPanelSlot_1935
+[2017.02.07-15.11.46:790][108]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu:WidgetTree.CanvasPanel_116.CanvasPanelSlot_1935 or CanvasPanelSlot /Engine/Transient.World_85:Infotainment_Menu_C_716.WidgetTree_2225.CanvasPanel_116.CanvasPanelSlot_1935
+[2017.02.07-15.11.46:790][108]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu:WidgetTree.CanvasPanel_116.CanvasPanelSlot_1935 or CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2226.CanvasPanel_116.CanvasPanelSlot_1935
+[2017.02.07-15.11.46:790][108]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu:WidgetTree.CanvasPanel_116.CanvasPanelSlot_1935 or CanvasPanelSlot /Engine/Transient.World_85:Infotainment_Menu_C_717.WidgetTree_2227.CanvasPanel_116.CanvasPanelSlot_1935
+[2017.02.07-15.11.46:790][108]LogProperty:Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu:WidgetTree.CanvasPanel_116.CanvasPanelSlot_1935) from referencer (Button /Engine/UMG/Editor/Transient.Button_686).  Import failed...
+[2017.02.07-15.11.46:790][108]LogProperty:Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'CanvasPanel_116.CanvasPanelSlot_1935''
+[2017.02.07-15.12.16:898][696]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu:WidgetTree.CanvasPanel_116
+[2017.02.07-15.12.16:898][696]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Engine/Transient.World_85:Infotainment_Menu_C_715.WidgetTree_2223.CanvasPanel_116
+[2017.02.07-15.12.16:898][696]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2224.CanvasPanel_116
+[2017.02.07-15.12.16:898][696]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Engine/Transient.World_85:Infotainment_Menu_C_716.WidgetTree_2225.CanvasPanel_116
+[2017.02.07-15.12.16:898][696]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2226.CanvasPanel_116
+[2017.02.07-15.12.16:898][696]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Engine/Transient.World_85:Infotainment_Menu_C_717.WidgetTree_2227.CanvasPanel_116
+[2017.02.07-15.12.16:898][696]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2228.CanvasPanel_116
+[2017.02.07-15.12.16:899][696]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Engine/Transient.World_85:Infotainment_Menu_C_718.WidgetTree_2229.CanvasPanel_116
+[2017.02.07-15.12.16:899][696]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2230.CanvasPanel_116
+[2017.02.07-15.12.16:899][696]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Engine/Transient.World_85:Infotainment_Menu_C_719.WidgetTree_2231.CanvasPanel_116
+[2017.02.07-15.12.16:899][696]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2232.CanvasPanel_116
+[2017.02.07-15.12.16:899][696]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Engine/Transient.World_85:Infotainment_Menu_C_720.WidgetTree_2233.CanvasPanel_116
+[2017.02.07-15.12.16:899][696]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu:WidgetTree.CanvasPanel_116.CanvasPanelSlot_1937 or CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2228.CanvasPanel_116.CanvasPanelSlot_1937
+[2017.02.07-15.12.16:899][696]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu:WidgetTree.CanvasPanel_116.CanvasPanelSlot_1937 or CanvasPanelSlot /Engine/Transient.World_85:Infotainment_Menu_C_718.WidgetTree_2229.CanvasPanel_116.CanvasPanelSlot_1937
+[2017.02.07-15.12.16:899][696]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu:WidgetTree.CanvasPanel_116.CanvasPanelSlot_1937 or CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2230.CanvasPanel_116.CanvasPanelSlot_1937
+[2017.02.07-15.12.16:899][696]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu:WidgetTree.CanvasPanel_116.CanvasPanelSlot_1937 or CanvasPanelSlot /Engine/Transient.World_85:Infotainment_Menu_C_719.WidgetTree_2231.CanvasPanel_116.CanvasPanelSlot_1937
+[2017.02.07-15.12.16:899][696]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu:WidgetTree.CanvasPanel_116.CanvasPanelSlot_1937 or CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2232.CanvasPanel_116.CanvasPanelSlot_1937
+[2017.02.07-15.12.16:899][696]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu:WidgetTree.CanvasPanel_116.CanvasPanelSlot_1937 or CanvasPanelSlot /Engine/Transient.World_85:Infotainment_Menu_C_720.WidgetTree_2233.CanvasPanel_116.CanvasPanelSlot_1937
+[2017.02.07-15.12.16:899][696]LogProperty:Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu:WidgetTree.CanvasPanel_116.CanvasPanelSlot_1937) from referencer (Button /Engine/UMG/Editor/Transient.Button_688).  Import failed...
+[2017.02.07-15.12.16:899][696]LogProperty:Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'CanvasPanel_116.CanvasPanelSlot_1937''
+[2017.02.07-15.12.17:166][709]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu:WidgetTree.CanvasPanel_116
+[2017.02.07-15.12.17:166][709]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Engine/Transient.World_85:Infotainment_Menu_C_715.WidgetTree_2223.CanvasPanel_116
+[2017.02.07-15.12.17:166][709]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2224.CanvasPanel_116
+[2017.02.07-15.12.17:166][709]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Engine/Transient.World_85:Infotainment_Menu_C_716.WidgetTree_2225.CanvasPanel_116
+[2017.02.07-15.12.17:166][709]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2226.CanvasPanel_116
+[2017.02.07-15.12.17:166][709]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Engine/Transient.World_85:Infotainment_Menu_C_717.WidgetTree_2227.CanvasPanel_116
+[2017.02.07-15.12.17:166][709]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2228.CanvasPanel_116
+[2017.02.07-15.12.17:166][709]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Engine/Transient.World_85:Infotainment_Menu_C_718.WidgetTree_2229.CanvasPanel_116
+[2017.02.07-15.12.17:166][709]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2230.CanvasPanel_116
+[2017.02.07-15.12.17:166][709]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Engine/Transient.World_85:Infotainment_Menu_C_719.WidgetTree_2231.CanvasPanel_116
+[2017.02.07-15.12.17:166][709]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2232.CanvasPanel_116
+[2017.02.07-15.12.17:167][709]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Engine/Transient.World_85:Infotainment_Menu_C_720.WidgetTree_2233.CanvasPanel_116
+[2017.02.07-15.12.17:462][709]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2234.CanvasPanel_116
+[2017.02.07-15.12.17:462][709]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanel /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2222.CanvasPanel_116 or CanvasPanel /Engine/Transient.World_85:Infotainment_Menu_C_721.WidgetTree_2235.CanvasPanel_116
+[2017.02.07-15.12.17:462][709]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu:WidgetTree.CanvasPanel_116.CanvasPanelSlot_1937 or CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2228.CanvasPanel_116.CanvasPanelSlot_1937
+[2017.02.07-15.12.17:462][709]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu:WidgetTree.CanvasPanel_116.CanvasPanelSlot_1937 or CanvasPanelSlot /Engine/Transient.World_85:Infotainment_Menu_C_718.WidgetTree_2229.CanvasPanel_116.CanvasPanelSlot_1937
+[2017.02.07-15.12.17:462][709]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu:WidgetTree.CanvasPanel_116.CanvasPanelSlot_1937 or CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2230.CanvasPanel_116.CanvasPanelSlot_1937
+[2017.02.07-15.12.17:462][709]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu:WidgetTree.CanvasPanel_116.CanvasPanelSlot_1937 or CanvasPanelSlot /Engine/Transient.World_85:Infotainment_Menu_C_719.WidgetTree_2231.CanvasPanel_116.CanvasPanelSlot_1937
+[2017.02.07-15.12.17:462][709]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu:WidgetTree.CanvasPanel_116.CanvasPanelSlot_1937 or CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2232.CanvasPanel_116.CanvasPanelSlot_1937
+[2017.02.07-15.12.17:462][709]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu:WidgetTree.CanvasPanel_116.CanvasPanelSlot_1937 or CanvasPanelSlot /Engine/Transient.World_85:Infotainment_Menu_C_720.WidgetTree_2233.CanvasPanel_116.CanvasPanelSlot_1937
+[2017.02.07-15.12.17:462][709]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu:WidgetTree.CanvasPanel_116.CanvasPanelSlot_1937 or CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu_C:WidgetTree_2234.CanvasPanel_116.CanvasPanelSlot_1937
+[2017.02.07-15.12.17:462][709]LogUObjectHash:Warning: Ambiguous search, could be CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu:WidgetTree.CanvasPanel_116.CanvasPanelSlot_1937 or CanvasPanelSlot /Engine/Transient.World_85:Infotainment_Menu_C_721.WidgetTree_2235.CanvasPanel_116.CanvasPanelSlot_1937
+[2017.02.07-15.12.17:463][709]LogProperty:Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/UMG/Infotainment_Menu.Infotainment_Menu:WidgetTree.CanvasPanel_116.CanvasPanelSlot_1937) from referencer (Button /Engine/UMG/Editor/Transient.Button_688).  Import failed...
+[2017.02.07-15.12.17:463][709]LogProperty:Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'CanvasPanel_116.CanvasPanelSlot_1937''
+[2017.02.07-15.13.40:235][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/Untitled" FILE="D:/Github/Forschungsseminar/Content/FirstPersonBP/Maps/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.02.07-15.13.40:369][ 23]LogSavePackage: Save=78.087868ms
+[2017.02.07-15.13.40:369][ 23]LogSavePackage: Moving 'D:/Github/Forschungsseminar/Saved/UntitledBBB955A34F9FABB94843309CF739D4D1.tmp' to 'D:/Github/Forschungsseminar/Content/FirstPersonBP/Maps/Untitled.umap'
+[2017.02.07-15.13.40:378][ 23]LogSavePackage: Total save time: 98.727860ms
+[2017.02.07-15.13.40:378][ 23]LogSavePackage:Display: Finished SavePackage D:/Github/Forschungsseminar/Content/FirstPersonBP/Maps/Untitled.umap
+[2017.02.07-15.13.40:409][ 23]LogFileHelpers: Saving map 'Untitled' took 0.229
+[2017.02.07-15.13.40:415][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/Infotainment_Menu" FILE="D:/Github/Forschungsseminar/Content/UMG/Infotainment_Menu.uasset" SILENT=true
+[2017.02.07-15.13.40:482][ 23]LogSavePackage: Save=57.983582ms
+[2017.02.07-15.13.40:482][ 23]LogSavePackage: Moving 'D:/Github/Forschungsseminar/Saved/Infotainment_MenuEC3F2CB741881547268C70A44722D595.tmp' to 'D:/Github/Forschungsseminar/Content/UMG/Infotainment_Menu.uasset'
+[2017.02.07-15.13.40:486][ 23]LogSavePackage: Total save time: 69.985159ms
+[2017.02.07-15.13.40:486][ 23]LogSavePackage:Display: Finished SavePackage D:/Github/Forschungsseminar/Content/UMG/Infotainment_Menu.uasset
+[2017.02.07-15.13.52:618][745]LogEditorActor: Deleted Actor: AtmosphericFog
+[2017.02.07-15.13.52:665][745]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000020918F45C60
+[2017.02.07-15.13.52:666][745]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000208C56B7240
+[2017.02.07-15.13.52:668][745]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000020918F474C0
+[2017.02.07-15.13.52:669][745]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000002090BEB5DA0
+[2017.02.07-15.13.52:674][745]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000207934A1800
+[2017.02.07-15.13.52:682][745]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000207889E3BA0
+[2017.02.07-15.13.52:682][745]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2017.02.07-15.13.58:475][ 92]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2017.02.07-15.13.58:515][ 92]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2017.02.07-15.14.00:301][199]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled' with GeneratedClass '/Game/FirstPersonBP/Maps/Untitled.Untitled_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Untitled.Untitled:PersistentLevel.Untitled'
+[2017.02.07-15.14.00:301][199]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.02.07-15.14.00:302][199]LogPlayLevel: [PlayLevel] Compiling Infotainment_Menu before play...
+[2017.02.07-15.14.00:348][199]LogPlayLevel: PlayLevel: Blueprint regeneration took 46 ms (1 blueprints)
+[2017.02.07-15.14.00:386][199]PIE: New page: PIE session: Untitled (Feb 7, 2017, 5:14:00 PM)
+[2017.02.07-15.14.00:387][199]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled
+[2017.02.07-15.14.00:390][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003006s)
+[2017.02.07-15.14.00:390][199]LogAIModule: Creating AISystem for world Untitled
+[2017.02.07-15.14.00:390][199]LogPlayLevel: PIE: World Init took: (0.000743s)
+[2017.02.07-15.14.00:391][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Untitled.Untitled to /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled (0.003944s)
+[2017.02.07-15.14.00:430][199]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.02.07-15.14.00:442][199]LogInit: FAudioDevice initialized.
+[2017.02.07-15.14.00:474][199]LogWorld: Game class is 'Mouse_GameMode_C'
+[2017.02.07-15.14.00:479][199]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled up for play (max tick rate 60) at 2017.02.07-16.14.00
+[2017.02.07-15.14.00:479][199]LogActor:Warning: GameSession /Game/FirstPersonBP/Maps/UEDPIE_0_Untitled.Untitled:PersistentLevel.GameSession_32 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2017
